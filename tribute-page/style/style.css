@@ -1,0 +1,21 @@
+body{
+    background-color: black;
+    color: white;
+    
+}
+   .top{
+    text-align: center;
+   
+   }
+
+#image{
+    height: auto;
+    max-width: 100%;
+    text-align: center;
+}
+.discription{
+    padding:left 600px;
+    padding-right: 350px;
+text-align: left;
+margin-left: 25%;
+}
